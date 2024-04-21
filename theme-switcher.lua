@@ -6,7 +6,7 @@ local action_state = require "telescope.actions.state"
 local action_set = require "telescope.actions.set"
 
 
-local Themer = {}
+Themer = {}
 
 
 Themer.Themes = {
